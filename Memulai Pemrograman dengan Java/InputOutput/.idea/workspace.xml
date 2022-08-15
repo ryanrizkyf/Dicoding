@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04b3a9db-194a-46ca-a161-0c70080b7a53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/AccessModifier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/dicoding/javafundamental/accessmodifier/package1/KelasA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/dicoding/javafundamental/accessmodifier/package1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/dicoding/javafundamental/accessmodifier/package2/KelasB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/dicoding/javafundamental/accessmodifier/package2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/dicoding/javafundamental/accessmodifier/package3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/dicoding/javafundamental/accessmodifier/package3/Perhitungan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/dicoding/javafundamental/accessmodifier/package4/Lingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/dicoding/javafundamental/accessmodifier/package4/Perhitungan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/dicoding/javafundamental/array/IndexOutOfBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/dicoding/javafundamental/array/InisiasiArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/dicoding/javafundamental/array/LoopingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/dicoding/javafundamental/array/MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/Collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/com/dicoding/javafundamental/collection/ListPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/com/dicoding/javafundamental/collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/com/dicoding/javafundamental/collection/MapPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/com/dicoding/javafundamental/collection/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/com/dicoding/javafundamental/collection/SetPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/com/dicoding/javafundamental/exception/MainDua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/com/dicoding/javafundamental/exception/MainSatu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/Function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/src/com/dicoding/javafundamental/function/CallFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/src/com/dicoding/javafundamental/function/InputFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/src/com/dicoding/javafundamental/function/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/src/com/dicoding/javafundamental/function/ReturnFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/dicoding/javafundamental/generics/GenericsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/dicoding/javafundamental/generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/dicoding/javafundamental/generics/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/dicoding/javafundamental/generics/Wildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/dicoding/javafundamental/generics/WildcardVSGenericsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloJava/HelloJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloJava/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/dicoding/javafundamental/inheritance/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/dicoding/javafundamental/inheritance/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/dicoding/javafundamental/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/dicoding/javafundamental/inheritance/Mamalia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputoutput/ByteStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputoutput/CharacterStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputoutput/FileNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputoutput/InputOUtputFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputoutput/UserBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/inputoutput/UserOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/com/dicoding/javafundamental/oop/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceImplement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceImplement/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceImplement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceImplement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceImplement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceImplement/InterfaceImplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceImplement/src/com/dicoding/javafundamental/oop/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceImplement/src/com/dicoding/javafundamental/oop/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/ObjectOrientedProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/src/com/dicoding/javafundamental/kelas/KucingAnggora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/src/com/dicoding/javafundamental/obyek/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/src/com/dicoding/javafundamental/obyek/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/Operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorAritmatika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorConditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorUnary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/Percabangan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/dicoding/javafundamental/percabangan/IfThen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/dicoding/javafundamental/percabangan/IfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/dicoding/javafundamental/percabangan/IfThenElseIfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/dicoding/javafundamental/percabangan/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Percabangan/src/com/dicoding/javafundamental/percabangan/SwitchWithoutBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/Perulangan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/src/com/dicoding/javafundamental/perulangan/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/src/com/dicoding/javafundamental/perulangan/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/src/com/dicoding/javafundamental/perulangan/ForBersarang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perulangan/src/com/dicoding/javafundamental/perulangan/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PropertiDanMetode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PropertiDanMetode/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PropertiDanMetode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PropertiDanMetode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PropertiDanMetode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PropertiDanMetode/PropertiDanMetode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PropertiDanMetode/src/com/dicoding/javafundamental/propertimetode/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PropertiDanMetode/src/com/dicoding/javafundamental/propertimetode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/StrukturDasar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/kendaraan/Kereta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/kendaraan/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/kendaraan/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/musik/Gitar.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CTdLl7Kq2lEO7ppSLUDiFJ5ovU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04b3a9db-194a-46ca-a161-0c70080b7a53" name="Changes" comment="" />
+      <created>1658830454367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658830454367</updated>
+      <workItem from="1658830455645" duration="8000" />
+      <workItem from="1658830517525" duration="742000" />
+      <workItem from="1659530261002" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

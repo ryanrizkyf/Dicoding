@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8278be79-8e26-41fd-91d6-2f3b3382f4d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/dicoding/javafundamental/array/IndexOutOfBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/dicoding/javafundamental/array/InisiasiArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/dicoding/javafundamental/array/LoopingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/dicoding/javafundamental/array/MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloJava/HelloJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloJava/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/InputOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/src/com/dicoding/javafundamental/inputoutput/InputOUtputFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/src/com/dicoding/javafundamental/inputoutput/UserBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/src/com/dicoding/javafundamental/inputoutput/UserOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/Operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorAritmatika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorConditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator/src/com/dicoding/javafundamental/operator/OperatorUnary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Percabangan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/percabangan/IfThen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/percabangan/IfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/percabangan/IfThenElseIfThenElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/percabangan/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/percabangan/SwitchWithoutBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/StrukturDasar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/kendaraan/Kereta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/kendaraan/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/kendaraan/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrukturDasar/src/com/dicoding/javafundamental/basic/musik/Gitar.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C9phgEZija95DDRfIOSpgfZx7R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SwitchWithoutBreak">
+    <configuration name="IfThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.IfThen" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfThenElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.IfThenElse" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfThenElseIfThenElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.IfThenElseIfThenElse" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.Switch" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchWithoutBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.SwitchWithoutBreak" />
+      <module name="Percabangan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwitchWithoutBreak" />
+        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.IfThenElseIfThenElse" />
+        <item itemvalue="Application.IfThenElse" />
+        <item itemvalue="Application.IfThen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8278be79-8e26-41fd-91d6-2f3b3382f4d5" name="Changes" comment="" />
+      <created>1658224776241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658224776241</updated>
+      <workItem from="1658224777523" duration="1096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
